@@ -23,7 +23,7 @@ a { text-decoration: none; color: inherit; }
 
 /* Navigation */
 header {
-    background: #fff;
+    background: rgba(255,255,255,0.9);
     padding: 10px 0;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
     position: sticky;
@@ -160,7 +160,7 @@ nav {
 }
 .hero {
     height: 80vh;
-    background: linear-gradient(rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.0)), url(assets/images/view2.jpg) no-repeat center center / cover;
+    background: linear-gradient(rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.0)), url(assets/images/view.jpg) no-repeat center center / cover;
     display: flex;
     align-items: center;
     justify-content: flex-start;
@@ -334,5 +334,4 @@ footer {
     .social-icons {
         justify-content: center;
     }
-
 }
