@@ -213,6 +213,9 @@ nav {
     background: #e2e2e2;
     box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.4);
 }
+.card:hover > h3 ,.card:hover > table tr td  {
+color : #029ed7;
+}
 
 .card img { width: 100%; border-radius: 5px; }
 
