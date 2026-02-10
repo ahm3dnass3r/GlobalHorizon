@@ -160,7 +160,7 @@ nav {
 }
 .hero {
     height: 80vh;
-    background: linear-gradient(rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.0)), url(assets/images/view.jpg) no-repeat center center / cover;
+    background: linear-gradient(rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.0)), url(assets/images/view2.jpg) no-repeat center center / cover;
     display: flex;
     align-items: center;
     justify-content: flex-start;
@@ -334,4 +334,5 @@ footer {
     .social-icons {
         justify-content: center;
     }
+
 }
